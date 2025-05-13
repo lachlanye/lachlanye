@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lachlan.</h1>
 <h3 align="center">A passionate developer from Shanghai, China</h3>
 
-<h3 align="left">Fudan University 26 - Software Engineering</h3>
+<h3 align="left"> 🎓 Fudan University 26 - Software Engineering</h3>
 <p align="left">
 </p>
 
